@@ -1,6 +1,7 @@
 # News app
 
-It tells about weather of every city 
+It tells about current news of any where 
+
 
 ## Getting Started
 
@@ -28,7 +29,7 @@ you shuld go there for getting CDN https://developers.google.com/speed/libraries
 ```
 
 ## Material I used init
-I used javascript and jquery.. i fetched the data from open weather app
+I used javascript and jquery.. I fetched the data from newsapi.org
 
 ### You can see and use my app from here 
 
